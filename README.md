@@ -1,4 +1,4 @@
-# Basic Angular
+# Application for the conferance meeting
 
 Basic client application built with Angular. It internally uses [livekit-client-sdk-js](https://docs.livekit.io/client-sdk-js/).
 
